@@ -4,15 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a4a4fe3-991d-4af3-bc1e-ee29491cc6db" name="Changes" comment="" />
+    <list default="true" id="9a4a4fe3-991d-4af3-bc1e-ee29491cc6db" name="Changes" comment="check_commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/aston/test/entity/Adults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aston/test/entity/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aston/test/entity/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aston/test/entity/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aston/test/utility/Game.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LavinAnt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LavinAnt/GenericsGame.git",
+    "accountId": "6d39365d-429e-491c-a9be-8b35f88018db"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -24,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -39,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716910679130</updated>
     </task>
+    <task id="LOCAL-00001" summary="check_commit">
+      <option name="closed" value="true" />
+      <created>1716910780577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716910780577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="check_commit" />
   </component>
 </project>
